@@ -1,0 +1,115 @@
+eremy Donson
+ENTERPRISE LAMP ARCHITECT
+
+PROJECT OPENRESUME 653 East 14th Street #8H   •   New York City, New York   •   10009
+Tel:  212.388.0632   •   Fax:  413.403.9965   •   Email:   jjdonson@gmail.com
+ROLES
+MySQL / Oracle DBA .•. Data Warehouse Analytics .•. OLTP App Architect
+Ops Engineer / LAMP Developer .•. Project Manager .•. Dev Docs Illustrator
+
+ 
+
+URLS
+JP Morgan / Chase   •   Rodale Publishing   •   Hearst New Media   •   Drupal Meetup   •   Athena Capital Research
+ 
+
+TOOLS
+Enterprise MySQL and Oracle, php, bash, vi, svn/hg, Unix, OS X, Solaris, LAMP, CMS, Mobile
+ 
+EXPERIENCE
+adMarketplace
+New York City
+
+Network MySQL DBA / Data WH Architect
+
+  Database Management and Stored Procudure Design and Development.
+
+  Open Source Data Warehouse Dev and Automated ETL/BI w InfoBright 
+August - November, 2010
+Yahoo!
+RightMedia
+
+MySQL DBA, Software Architect, Proj Mgr
+
+  MySQL 5.1 Rollouts. Advanced stored procedure design. 
+
+  Test matrix design for network database architectures of scale. 
+
+  Change management and database ops tracking systems. 
+
+  Multi-instance monitoring, load-balancing and failover strategies.
+
+February - June, 2010
+Athena
+Capital 
+Research
+
+Senior MySQL DBA & LAMP Engineer
+
+  Complete network database redesign with zero impact to production.
+
+  Network db build out and monitoring of 350 GB instances.
+
+Realtime db multi-instance monitoring, load-balancing and failover strategies.
+
+January, 2009 - Jan, 2010
+drupal.org
+token module
+datasync module	Technical Illustrator For Drupal 6.x Docs
+
+ Developed technical illustrations under close direction of Drupal 6 module
+maintainers for effective documentation of module functionality.
+
+October - December, 2008
+Hearst
+New Media	Senior MySQL 5 DBA & PHP Developer
+
+  Complete DBA support for 20+ monitored production MySQL instances.
+
+  High Performance Architectures • Data Warehouse Design.
+
+  60+ GB Dual-Cluster Instance Monitoring & Recovery.
+
+March - September., 2008
+Rodale Publishing	Senior LAMP Engineer & Drupal Developer
+
+  OSS Engineer & Developer for Drupal Site Hosted In-House 
+
+  MySQL & Linux High Availability Solutions. Huge Oracle Migration
+Sept., 2007 - Feb., 2008
+AccessCRM	LAMP Engineer, Architect & Developer
+
+  Designed & Developed PHP / MySQL / Linux Solutions.
+
+  Emphasis on Data Warehouse Design & App Architecture.	January - August, 2007
+UrbanSpectra	Network & Database Systems Engineer
+
+  Open Source & Apple Technical Consulting Services.
+
+  Complete Technical Project & Resource Management.	Sept., 2004 - Jan, 2007
+Miller Freeman	Open Source Test Lab Manager
+
+  Managed Test Lab for Several New Technology Magazines.
+
+  Project Mgr & Benchmark Engineer For 5 Tech Magazines.	June, 2002- Sept., 2004
+CitiBank /
+JP Morgan
+Chase
+Banks	Data Warehouse Developer & Administrator
+
+  Custom Analytics & Modeling of Time-Series Data Warehouse.
+
+  Trained Marketing & Dev Team To Leverage Oracle8i.	March, 2000 - July, 2002
+References Available Upon Request
+ 
+EDUCATION
+ Apple, Inc.	Certified iPhone Developer & Apple OS X Systems Engineer	2009
+ MySQL AB	Certified MySQL Database Administrator (Version 5)	2008
+ Oracle, Inc.	Certified Oracle Database Administrator (Version 8i)	2002
+ Columbia University	
+System Architect & Database App Dev Program
+
+2000
+ UCSF & USF	Molecular Medicine Research Program & Pre-Medical Studies	1993
+ Sarah Lawrence College	Bachelor of Sciences: Software Engineering & Medical Statistics
+1990
