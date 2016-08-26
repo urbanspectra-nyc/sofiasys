@@ -3,6 +3,7 @@ Apple System Sales
 Proposed Project Directory Structure: sofiasys
 
 /certs/
+
 /scripts/
 /auth/
 /.git/
