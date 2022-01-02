@@ -16,7 +16,7 @@
       - [Landing page](https://www.macofalltrades.com/apple-laptops/)
 
   - Two other pages will folow:
-    - Home: This is bare bones to start, with custom header and footer.  SEO IS IMPORTANT!
+    - [Home](https://drive.google.com/file/d/1fhoXLHbRS-gPBW5FpKyCBNduUduC-Gnq/view?usp=sharing) This is bare bones to start, with custom header and footer.  SEO IS IMPORTANT!
     - [Device Type Choice Page](https://eshop.macsales.com/shop/Apple_Systems/Used/Macs_and_Tablets)
     - Includes custom 404 error page, where we will use [this](https://codepen.io/shankarcabus/pen/hBbDi)
 
