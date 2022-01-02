@@ -7,7 +7,7 @@
 
 - 12-31-2021: Set up empty repo and invited mdshukur to this repo.
   - We kick this project off with two responsive static pages, hand-coded:
-    - [Item Detail Page](https://eshop.macsales.com/configure-my-mac/UAOM1HS42XXX0XI)
+    - [Item Detail Page](https://eshop.macsales.com/configure-my-mac/UAPH3JS422XXXXC)
     - [Item Type Landing Page](https://eshop.macsales.com/configure-my-mac/macbook-pro)
       - It is assumed that bootstrap conventions are going to be used.
 
