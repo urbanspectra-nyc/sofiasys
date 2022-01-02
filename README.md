@@ -5,7 +5,7 @@
 #### Project Log
 - 1-1-2022: First contract pending for two static pages.  Awaiting first review meeting scheduled.
 
-- 12-31-2021: Set up empty repo and invited mdshukur to this repo.
+- 12-31-2021: Set up empty repo and started to set up project specs in README.md.
   - We kick this project off with two responsive static pages, hand-coded:
     - [Item Detail Page](https://eshop.macsales.com/configure-my-mac/UAPH3JS422XXXXC)
     - [Item Type Landing Page](https://eshop.macsales.com/configure-my-mac/macbook-pro)
