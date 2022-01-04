@@ -25,5 +25,6 @@
   - [Selenium testing](https://getpocket.com/read/3514991581) sounds wise.
   - [Pruning css](https://github.com/purifycss/purifycss) always sounds wise.
   - We will move to [jekyll](http://henrythemes.github.io/jekyll-bootstrap-theme/)
+  - Good series of tutorials on [ghub pages and jekyll themes](https://www.youtube.com/watch?v=EvYs1idcGnM&t=0s&ab_channel=BillRaymond)
   - We will move to [i18n](https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/)
   - [Other ui stuff I will play with at the end](https://www.alessioatzeni.com/mac-osx-lion-css3/)
