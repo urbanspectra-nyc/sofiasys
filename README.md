@@ -27,5 +27,5 @@
   - We will move to [jekyll](http://henrythemes.github.io/jekyll-bootstrap-theme/)
   - [Jekyll repo dir structure](http://jekyllrb.com/docs/structure/)
   - Good series of tutorials on [ghub pages and jekyll themes](https://www.youtube.com/watch?v=EvYs1idcGnM&t=0s&ab_channel=BillRaymond)
-  - We will move to [i18n](https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/)
+  - We will move to [i18n](https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/) • [emoji flags](https://flagpedia.net/emoji)
   - [Other ui stuff I will play with at the end](https://www.alessioatzeni.com/mac-osx-lion-css3/)
