@@ -32,6 +32,41 @@ img{
 
 
 /*Landing Page*/
+.add-wrap{
+    display: flex;
+    align-items: center;
+    max-width: 700px;
+    margin: auto;
+}
+.add-wrap img{
+    max-width: 150px;
+}
+.add-text{
+    width: 100%;
+    font-size: 14px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.add-text p{
+    margin: 0;
+}
+.owl-carousel .owl-dots {
+    text-align: center;
+    margin-top: 10px;
+}
+.owl-carousel .owl-dots.disabled {
+    display: block;
+}
+.owl-dot{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: grey !important;
+    margin: 5px;
+}
+.owl-dot.active{
+    background: #007bff !important;
+}
 .product-card{
     display: flex;
     flex-direction: column;
@@ -77,3 +112,82 @@ h3.section-heading{
 .section:hover .heading-underline{
     width: 100%;
 }
+
+/*Product-Details*/
+.accordion{
+    font-size: 14px;
+}
+#faq .card .card-header .btn-header-link:after {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f068";
+    font-weight: 900;
+    float: right;
+    font-size: 12px;
+    color: white;
+    margin-top: 5px;
+}
+#faq .card .card-header .btn-header-link.collapsed:after {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f067";
+    float: right;
+    font-size: 12px;
+    color: white;
+    margin-top: 5px;
+}
+.condition-img-wrap{
+    max-width: 700px;
+    margin: auto;
+}
+.spec-heading{
+    width: 150px;
+}
+.specs{
+    display: flex;
+    align-items: center;
+}
+.specs-icon{
+    width: 100%;
+    max-width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    background: #007bff;
+    color: white;
+    float: left;
+}
+.specs-text{
+    padding-left: 10px;
+    width: 100%;
+    font-weight: 600;
+    font-size: 13px;
+}
+.product-detail-img{
+    max-width: 400px;
+    margin: auto;
+}
+.main-specs {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.main-specs li{
+    background: rgba(0, 123, 255, 0.1);
+    color: #007bff;
+    padding: 10px;
+    margin: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.top-page-links{
+    font-size: 10px;
+    font-weight: bold;
+}
+.top-page-links a{
+    text-decoration: underline !important;
+}
+.top-page-links span{
+    font-weight: lighter;
+}
+/*Product-Details End*/

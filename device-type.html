@@ -25,6 +25,91 @@
 
 <body>
 
+<div class="bg-white py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 mb-2">
+                <div class="specs">
+                    <div class="specs-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <div class="specs-text">
+                        Add up to 2 years of extended service protection.
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-2">
+                <div class="specs">
+                    <div class="specs-icon">
+                        <i class="fa fa-cube"></i>
+                    </div>
+                    <div class="specs-text">
+                        FREE shipping within the contiguous 48 States
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-2">
+                <div class="specs">
+                    <div class="specs-icon">
+                        <i class="fa fa-thumbs-up"></i>
+                    </div>
+                    <div class="specs-text">
+                        Warrantied and backed by OWC's expert support team
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-2">
+                <div class="specs">
+                    <div class="specs-icon">
+                        <span class="font-weight-bold">14</span>
+                    </div>
+                    <div class="specs-text">
+                        14-day 100% Money-Back Guarantee
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mt-5">
+            <div class="owl-carousel owl-theme add-carousel">
+                <div class="item">
+                    <div class="add-wrap">
+                        <div class="add-img">
+                            <img src="assets/img/logo-acronis-blue-v2_ifn0kv.svg" alt="">
+                        </div>
+                        <div class="add-text">
+                            <p>Get <span class="font-weight-bold text-danger">68% off</span>
+                                <strong class="display-mobile-only">Acronis</strong>
+                                Cyber Protect Home Office Advanced
+                            </p>
+                            <p>Protection + Backup + Cloud. Only <strike aria-hidden="true">
+                                $49.99</strike> $19.99 with any Mac!
+                                <span class="learn-more">Learn more »</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="add-wrap">
+                        <div class="add-img">
+                            <img src="assets/img/logo-acronis-blue-v2_ifn0kv.svg" alt="">
+                        </div>
+                        <div class="add-text">
+                            <p>Get <span class="font-weight-bold text-danger">68% off</span>
+                                <strong class="display-mobile-only">Acronis</strong>
+                                Cyber Protect Home Office Advanced
+                            </p>
+                            <p>Protection + Backup + Cloud. Only <strike aria-hidden="true">
+                                $49.99</strike> $19.99 with any Mac!
+                                <span class="learn-more">Learn more »</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="container section py-5">
     <h3 class="section-heading">
         <span class="heading-text">
@@ -184,10 +269,7 @@
 
 <div class="bg-white">
     <div class="container section py-5">
-        <div class="row flex-row-reverse align-items-center">
-            <div class="col-md-6 mb-3">
-                <img src="assets/img/used-mac-accessories.jfif" alt="">
-            </div>
+        <div class="row align-items-center">
             <div class="col-md-6 mb-3">
                 <h3 class="section-heading text-left">
                     <span class="heading-text">
@@ -202,6 +284,9 @@
                 </p>
                 <a href="#" class="text-primary">Shop all Apple Accessories »</a>
             </div>
+            <div class="col-md-6 mb-3">
+                <img src="assets/img/used-mac-accessories.jfif" alt="">
+            </div>
         </div>
     </div>
 </div>
@@ -212,6 +297,18 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
+<script>
+    $('.add-carousel').owlCarousel({
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 5000,
+        margin: 20,
+        nav: false,
+        dots: true,
+        animateOut: 'fadeOut',
+        items: 1,
+    });
+</script>
 
 </body>
 </html>
