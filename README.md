@@ -4,29 +4,29 @@
 
 #### Project Log
 - 1-6-2022: Three of the main 4 static pages are ready for edits.  Merged them into master.
- - Three out of four pages are ready for final edits.
-    - 1. final edits => [issues](https://github.com/urbanspectra-nyc/sofiasys/issues) Upon salman's return
-    - 2. github pages
-    - 3. [jekyll theme](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
-    - 4. create templates from html pages => Redo content
-    - 5. write script to generate yaml file + photos to inject into templates:  device type landing page template + item detail template
-    - 6. SEO + ads
-    - 7. Github actions
-    - 8. i18n
+  - Three out of four pages are ready for final edits.
+  - 1. final edits => [issues](https://github.com/urbanspectra-nyc/sofiasys/issues) Upon salman's return
+  - 2. github pages
+  - 3. [jekyll theme](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
+  - 4. create templates from html pages => Redo content
+  - 5. write script to generate yaml file + photos to inject into templates:  device type landing page template + item detail template
+  - 6. SEO + ads
+  - 7. Github actions
+  - 8. i18n
 
 - 1-1-2022: First contract pending for two static pages.  Awaiting first review meeting scheduled.
 
 - 12-31-2021: Set up empty repo and started to set up project specs in README.md.
   - We kick this project off with two responsive static pages, hand-coded:
-    - [Item Detail Page](https://eshop.macsales.com/configure-my-mac/UAPH3JS422XXXXC)
-    - [Item Type Landing Page](https://eshop.macsales.com/configure-my-mac/macbook-pro)
-      - It is assumed that bootstrap conventions are going to be used.
+  - [Item Detail Page](https://eshop.macsales.com/configure-my-mac/UAPH3JS422XXXXC)
+  - [Item Type Landing Page](https://eshop.macsales.com/configure-my-mac/macbook-pro)
+  - It is assumed that bootstrap conventions are going to be used.
 
-    - Other examples of pages doing the same thing:
-      - [Detail page](https://www.macofalltrades.com/apple-macbook-pro-13-inch-2-4ghz-core-i7-late-2016-silver-mll42ll-a-2-very-good-condition/)
-      - [Landing page](https://www.macofalltrades.com/apple-laptops/)
+- Other examples of pages doing the same thing:
+  - [Detail page](https://www.macofalltrades.com/apple-macbook-pro-13-inch-2-4ghz-core-i7-late-2016-silver-mll42ll-a-2-very-good-condition/)
+  - [Landing page](https://www.macofalltrades.com/apple-laptops/)
 
-  - Two other pages will folow:
+- Two other pages will folow:
     - [Home](https://drive.google.com/file/d/1fhoXLHbRS-gPBW5FpKyCBNduUduC-Gnq/view?usp=sharing) This is bare bones to start, with custom header and footer.  SEO IS IMPORTANT!
     - [Device Type Choice Page](https://eshop.macsales.com/shop/Apple_Systems/Used/Macs_and_Tablets)
     - Includes custom 404 error page, where we will use [this](https://codepen.io/shankarcabus/pen/hBbDi)
