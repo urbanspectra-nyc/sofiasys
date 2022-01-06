@@ -3,6 +3,17 @@
 - We will start to manage project from this ghmd file.
 
 #### Project Log
+- 1-6-2022: Three of the main 4 static pages are ready for edits.  Merged them into master.
+ - Three out of four pages are ready for final edits.
+    - 1. final edits => [issues](https://github.com/urbanspectra-nyc/sofiasys/issues) Upon salman's return
+    - 2. github pages
+    - 3. [jekyll theme](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
+    - 4. create templates from html pages => Redo content
+    - 5. write script to generate yaml file + photos to inject into templates:  device type landing page template + item detail template
+    - 6. SEO + ads
+    - 7. Github actions
+    - 8. i18n
+
 - 1-1-2022: First contract pending for two static pages.  Awaiting first review meeting scheduled.
 
 - 12-31-2021: Set up empty repo and started to set up project specs in README.md.
