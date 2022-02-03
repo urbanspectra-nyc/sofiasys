@@ -1,5 +1,5 @@
 body, html {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     overflow-x: hidden !important;
     font-size: 16px;
     line-height: 1.4;
@@ -65,7 +65,7 @@ img{
     margin: 5px;
 }
 .owl-dot.active{
-    background: #007bff !important;
+    background: #4c6ef5 !important;
 }
 .product-card{
     display: flex;
@@ -93,7 +93,7 @@ img{
 }
 
 h3.section-heading{
-    color: #007bff;
+    color: #4c6ef5;
     text-align: center;
     margin-bottom: 30px !important;
 }
@@ -106,7 +106,7 @@ h3.section-heading{
     left: 0;
     width: 0;
     height: 2px;
-    background: #007bff;
+    background: #4c6ef5;
     transition: all 0.3s;
 }
 .section:hover .heading-underline{
@@ -152,7 +152,7 @@ h3.section-heading{
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
-    background: #007bff;
+    background: #4c6ef5;
     color: white;
     float: left;
 }
@@ -173,7 +173,7 @@ h3.section-heading{
 }
 .main-specs li{
     background: rgba(0, 123, 255, 0.1);
-    color: #007bff;
+    color: #4c6ef5;
     padding: 10px;
     margin: 5px;
     font-size: 12px;
