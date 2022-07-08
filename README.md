@@ -11,8 +11,9 @@
 - 5. Project Roadmaps + Site Maps
 - 6. Custom 404 Error Page
 - 7. Contact Us Page --E
+- 8. Other Device Types On Our Radar: Tablets + Desktops + Clusters + Bundles
 
-- => Other Device Types On Our Radar: Tablets + Desktops + Clusters + Bundles
+- [Linktree](https://linktr.ee/sofiasys)
 ---
 #### Suggested Orders
   - First Order: $40 - [ three existing pages => github pages + og + seo + item detail tpl ]
