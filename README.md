@@ -1,8 +1,39 @@
 ## Sofiasys Laptop Sales Site
+- We manage project from this ghmd file, initially.
+  - [Project Issues](https://github.com/urbanspectra-nyc/sofiasys/issues)
+  - [Github Project](https://github.com/urbanspectra-nyc/sofiasys/projects?type=beta)
+---
+### Site Map
+- 1. SofiaSys Home Page => [ BUY | SELL ] => Site Map
+  - 2. Device Type Choice Page => [ laptops + smartphones ] => device-types.html
+    - 3. Device Type Landing Page => landing-page-{laptops,smartphones}.html (many)
+      - 4. Device Type Item Details Page => product-details-{laptop,smartphone}-nn.html (one)
+       - 5. Site Map
+       - 6. Custom 404 Error Page
+       - 7. Contact Us
 
-- We will start to manage project from this ghmd file.
+- => Other Device Types On Our Radar: Tablets + Desktops + Clusters + Bundles
+---
+#### Suggested Orders
+  - First Order: $40 - [ 2 existing pages plus device type = smartphones => github pages + og + seo ]
+  - Second Order: $40 - 2 templates = [ item detail page + landing page element templates ] for laptops and smartphones => github pages
+  - Third Order: $40 - Two domains @ github with https
+  - Fourth Order: $40 - i18n With Laptop Terminology
+  - Fifth Order: $40 - Host Static Site at AWS+GCP+Azure
+---
+- Sample Sites For Ideas:
+  - [Device Type Choice Page](https://eshop.macsales.com/shop/Apple_Systems/Used/Macs_and_Tablets)
+  - [Buy+Sell Smartphones+Laptops](https://www.gazelle.com/)
+
+
 
 #### Project Log
+
+  - [Pruning css](https://github.com/purifycss/purifycss) always sounds wise.
+
+
+
+
 - 1-6-2022: Three of the main 4 static pages are ready for edits.  Merged them into master.
   - Three out of four pages are ready for final edits.
   - 1. final edits => [issues](https://github.com/urbanspectra-nyc/sofiasys/issues) Upon salman's return
@@ -14,21 +45,12 @@
   - 7. Github actions
   - 8. i18n
 
+
+
 - 1-1-2022: First contract pending for two static pages.  Awaiting first review meeting scheduled.
-
-- 12-31-2021: Set up empty repo and started to set up project specs in README.md.
-  - We kick this project off with two responsive static pages, hand-coded:
-  - [Item Detail Page](https://eshop.macsales.com/configure-my-mac/UAPH3JS422XXXXC)
-  - [Item Type Landing Page](https://eshop.macsales.com/configure-my-mac/macbook-pro)
-  - It is assumed that bootstrap conventions are going to be used.
-
-- Other examples of pages doing the same thing:
-  - [Detail page](https://www.macofalltrades.com/apple-macbook-pro-13-inch-2-4ghz-core-i7-late-2016-silver-mll42ll-a-2-very-good-condition/)
-  - [Landing page](https://www.macofalltrades.com/apple-laptops/)
 
 - Two other pages will folow:
     - [Home](https://drive.google.com/file/d/1fhoXLHbRS-gPBW5FpKyCBNduUduC-Gnq/view?usp=sharing) This is bare bones to start, with custom header and footer.  SEO IS IMPORTANT!
-    - [Device Type Choice Page](https://eshop.macsales.com/shop/Apple_Systems/Used/Macs_and_Tablets)
     - Includes custom 404 error page, where we will use [this](https://codepen.io/shankarcabus/pen/hBbDi)
 
 
