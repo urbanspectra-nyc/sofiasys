@@ -1,5 +1,5 @@
 ## Sofiasys Laptop Sales Site
-- We manage project from this ghmd file, initially.
+- We manage project from this ghmd file, initially...  and then...
   - [Project Issues](https://github.com/urbanspectra-nyc/sofiasys/issues)
   - [Github Project](https://github.com/urbanspectra-nyc/sofiasys/projects?type=beta)
 ---
@@ -18,7 +18,7 @@
   - First Order: $40 - [ 2 existing pages plus device type = smartphones => github pages + og + seo ]
   - Second Order: $40 - 2 templates = [ item detail page + landing page element templates ] for laptops and smartphones => github pages
   - Third Order: $40 - Two domains @ github with https
-  - Fourth Order: $40 - i18n With Laptop Terminology
+  - Fourth Order: $40 - Script per device platform for auto-inject-tpls
   - Fifth Order: $40 - Host Static Site at AWS+GCP+Azure
 ---
 - Sample Sites For Ideas:
