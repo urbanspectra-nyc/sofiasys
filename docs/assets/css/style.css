@@ -1,0 +1,203 @@
+body, html {
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden !important;
+    font-size: 16px;
+    line-height: 1.4;
+    background: #f6f6f6;
+}
+
+button {
+    background: transparent;
+    cursor: pointer;
+    border: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Avenir' ,sans-serif;
+    margin: 0 !important;
+    font-weight: 500;
+}
+
+button:focus {
+    outline: none;
+}
+
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+img{
+    width: 100%;
+}
+
+
+/*Landing Page*/
+.add-wrap{
+    display: flex;
+    align-items: center;
+    max-width: 700px;
+    margin: auto;
+}
+.add-wrap img{
+    max-width: 150px;
+}
+.add-text{
+    width: 100%;
+    font-size: 14px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.add-text p{
+    margin: 0;
+}
+.owl-carousel .owl-dots {
+    text-align: center;
+    margin-top: 10px;
+}
+.owl-carousel .owl-dots.disabled {
+    display: block;
+}
+.owl-dot{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: grey !important;
+    margin: 5px;
+}
+.owl-dot.active{
+    background: #4c6ef5 !important;
+}
+.product-card{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: 1px solid #ebebeb;
+    transition: all ease-in-out 0.3s;
+    background: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+.product-card:hover {
+    border-color: #fff;
+    box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
+    transform: translateY(-10px);
+}
+.product-img{
+    max-width: 250px;
+    margin: auto;
+}
+.product-card .product-desc{
+    text-align: left;
+    font-size: 14px;
+}
+
+h3.section-heading{
+    color: #4c6ef5;
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+.heading-text{
+    position: relative;
+}
+.heading-underline{
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #4c6ef5;
+    transition: all 0.3s;
+}
+.section:hover .heading-underline{
+    width: 100%;
+}
+
+/*Product-Details*/
+.accordion{
+    font-size: 14px;
+}
+#faq .card .card-header .btn-header-link:after {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f068";
+    font-weight: 900;
+    float: right;
+    font-size: 12px;
+    color: white;
+    margin-top: 5px;
+}
+#faq .card .card-header .btn-header-link.collapsed:after {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f067";
+    float: right;
+    font-size: 12px;
+    color: white;
+    margin-top: 5px;
+}
+.condition-img-wrap{
+    max-width: 700px;
+    margin: auto;
+}
+.spec-heading{
+    width: 150px;
+}
+.specs{
+    display: flex;
+    align-items: center;
+}
+.specs-icon{
+    width: 100%;
+    max-width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    background: #4c6ef5;
+    color: white;
+    float: left;
+}
+.specs-text{
+    padding-left: 10px;
+    width: 100%;
+    font-weight: 600;
+    font-size: 13px;
+}
+.product-detail-img{
+    max-width: 400px;
+    margin: auto;
+}
+.main-specs {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.main-specs li{
+    background: rgba(0, 123, 255, 0.1);
+    color: #4c6ef5;
+    padding: 10px;
+    margin: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.top-page-links{
+    font-size: 10px;
+    font-weight: bold;
+}
+.top-page-links a{
+    text-decoration: underline !important;
+}
+.top-page-links span{
+    font-weight: lighter;
+}
+/*Product-Details End*/
+/* smartphones css start */
+.mobile_back {
+    background: url(../img/phone_header_img.webp);
+    background-position: center center;
+    background-size: cover;
+    padding: 68px 10px;
+}
+.specs-list {
+    text-align: left;
+}
